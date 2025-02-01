@@ -1,0 +1,76 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url(jordon-conner-VIcTzkzNZR8-unsplash.jpg);
+    box-sizing: border-box;
+}
+
+.container
+{
+    border: 2px solid black;
+    margin: 90px auto;
+    width: 340px;
+    height: 530px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: black ;
+    box-shadow: 2px 1px 100px 20px grey;
+
+}
+.display
+{
+    max-height: 100px;
+    margin-bottom: 20px;
+   border: 10px solid black;  
+    background-color: blue;
+    border-radius: 0 0 50px 50px;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    padding-top: -20px;
+}
+.operators
+{
+    background-color: #c24d2c;
+}
+button
+{
+    width: 70px;
+    height: 55px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+    background-color: #393e46;
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+.allclear, .clear
+
+{
+    background-color: red;
+}
+
+#h1
+{
+    font-size: 40px;
+    margin-top: 25px;
+    overflow-x: scroll;
+   padding-bottom: 75px;
+}
+
+#h1::-webkit-scrollbar
+{
+    background-color: white;
+    width: 100%;
+    border-radius: 20px;
+    color: white;
+  
+}
+.container:hover
+{
+    background-color: grey;
+    box-shadow: 2px 1px 100px 20px black;
+}
