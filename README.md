@@ -36,11 +36,11 @@ The Calculator App is a simple web-based calculator that allows users to perform
 4. Use AC to reset all inputs or CE to clear the last entry.
 
 ## Files Included ##
-**index.html **- The main structure of the calculator.
-**style.css** - Styles for the calculator.
-**script.js** - JavaScript logic for calculations.
+1.**index.html**- The main structure of the calculator.
+2. **style.css** - Styles for the calculator.
+3. **script.js** - JavaScript logic for calculations.
 
-
+ 
 **Author**
 Developed by **Pravallika**
 Feel free to modify and improve this project!
