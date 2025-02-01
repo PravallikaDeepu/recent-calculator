@@ -9,7 +9,6 @@ The Calculator App is a simple web-based calculator that allows users to perform
 3. **Parentheses Support**: Users can perform calculations with brackets '(' and ')'
 
 ## Clear and Reset:##
-
 1. AC (All Clear) button to reset the entire input
 2. CE (Clear Entry) button to remove the last entered value
 3. Decimal Support: Users can enter decimal numbers
@@ -26,9 +25,9 @@ The Calculator App is a simple web-based calculator that allows users to perform
 7.Escape (Esc) to reset the calculator
 
 ## Technologies Used ##
-**HTML**: Structure of the calculator.
-**CSS**: Styling for a user-friendly interface.
-**JavaScrip**t: Handles button click events and performs calculations.
+1. **HTML**: Structure of the calculator.
+2. **CSS**: Styling for a user-friendly interface.
+3. **JavaScript**: Handles button click events and performs calculations.
 
 ## How to Use ##
 1. Open the index.html file in a web browser.
