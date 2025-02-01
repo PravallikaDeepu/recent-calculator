@@ -26,9 +26,9 @@ The Calculator App is a simple web-based calculator that allows users to perform
 7.Escape (Esc) to reset the calculator
 
 ## Technologies Used ##
-**HTML**: Structure of the calculator
-**CSS**: Styling for a user-friendly interface
-**JavaScrip**t: Handles button click events and performs calculations
+**HTML**: Structure of the calculator.
+**CSS**: Styling for a user-friendly interface.
+**JavaScrip**t: Handles button click events and performs calculations.
 
 ## How to Use ##
 1. Open the index.html file in a web browser.
