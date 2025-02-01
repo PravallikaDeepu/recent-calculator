@@ -4,9 +4,9 @@
 The Calculator App is a simple web-based calculator that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The app features a clean user interface and is built using HTML, CSS, and JavaScript.
 
 ## Features ##
-1. **Basic Arithmetic Operations**: Addition (+), Subtraction (-), Multiplication (*), and Division (/)
-2. **Percentage Calculation**: Includes a '%' button for quick percentage calculations
-3. **Parentheses Support**: Users can perform calculations with brackets '(' and ')'
+1. **Basic Arithmetic Operations**: Addition (+), Subtraction (-), Multiplication (*), and Division (/).
+2. **Percentage Calculation**: Includes a '%' button for quick percentage calculations.
+3. **Parentheses Support**: Users can perform calculations with brackets '(' and ')'.
 
 ## Clear and Reset:##
 1. AC (All Clear) button to reset the entire input
